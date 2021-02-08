@@ -1,6 +1,6 @@
-# Cloud Datawarehouse project - Udacity Data Engineer Nanodegree
+# Cloud Data Warehouse project - Udacity Data Engineer Nanodegree
 
-## Project: Data Warehouse
+## Project: Data Warehouse (AWS Redshift)
 
 ### Context 
 
